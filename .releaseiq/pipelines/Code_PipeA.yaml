@@ -65,4 +65,3 @@ steps:
       emailRecipients:
         - yamini.c@releaseiq.io
       includeCommitter: true
-
